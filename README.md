@@ -8,4 +8,4 @@ You can view the live project here: [https://your-deployment-url.com](https://he
 
 ## 🖼️ Output Screenshot
 
-![Healthcare Dashboard Screenshot](./assets/output.png)
+![Healthcare Dashboard Screenshot](./src/assets/output.png)
