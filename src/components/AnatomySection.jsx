@@ -7,7 +7,7 @@ const AnatomySection = () => {
     <section className="anatomy-section">
       <div className="anatomy-image-container">
         <img
-          src="../src/assets/human-body-frontal.jpg"
+          src="../src/assets/human-body.jpg"
           alt="Human Anatomy"
           className="anatomy-image"
         />
